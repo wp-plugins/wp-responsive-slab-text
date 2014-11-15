@@ -15,11 +15,11 @@ Based on slabText – a jQuery plugin for producing big, bold & responsive headl
 
 = Usage =
 
-[slabtext]<br/>
-	[slab]liine 1[/slab]<br/>
-	[slab]line 2[/slab]<br/>
-	[slab]line 3[/slab]<br/>
-	[slab]line 4[/slab]<br/>
+[slabtext]
+[slab]liine 1[/slab]
+[slab]line 2[/slab]
+[slab]line 3[/slab]
+[slab]line 4[/slab]
 [/slabtext]
 
 <p>
@@ -29,10 +29,10 @@ Based on slabText – a jQuery plugin for producing big, bold & responsive headl
 == Frequently Asked Questions ==
 = Can I wrap the shortcode with HTML header tags = 
 Yes, here is an example:
-&#60h1&#62;<br/>
-[slabtext]<br/>
-	[slab]My responsive title[/slab]<br/>
-[/slabtext]<br/>
+&#60h1&#62;
+[slabtext]
+[slab]My responsive title[/slab]
+[/slabtext]
 &#60/h1&#62;
 
 == Changelog ==	
