@@ -1,5 +1,5 @@
 === WP Responsive Auto Fit Text ===
-Contributors:
+Contributors:gal_op
 Donate link: 
 Tags: Fit text, slab text, responsive, shortcode, justify text, slabtext, auto fit text
 Requires at least: 2.5
@@ -7,23 +7,23 @@ Tested up to: 4.0
 Stable tag: 0.1
 License: GPLv2 or later
 
-WP Responsive Auto Fit Text allows you to create great, big, bold & responsive headlines that resize to the viewport width, with a WordPress shortcode.
+WP Responsive Auto Fit Text allows you to create great, big, bold headlines that resize to the viewport width, with a WordPress shortcode.
 
 == Description ==
 
 Based on slabText – a jQuery plugin for producing big, bold & responsive headlines (https://github.com/freqDec/slabText), this plugin allows you to create great, big, bold & responsive headlines that resize to the viewport width with a WordPress shortcode.
 
 = Usage =
-
+‘
 [slabtext]
 [slab]liine 1[/slab]
 [slab]line 2[/slab]
 [slab]line 3[/slab]
 [slab]line 4[/slab]
 [/slabtext]
-
+’
 <p>
-<a href="http://www.vibesdesign.com.au/wp-responsive-auto-fit-text-wordpress-plugin/" title="WP Responsive Auto Fit Text">Working Demo</a>
+<a target="_blank" href="http://www.vibesdesign.com.au/wp-responsive-auto-fit-text-wordpress-plugin/" title="WP Responsive Auto Fit Text">Working Demo</a>
 </p>
 
 == Frequently Asked Questions ==
