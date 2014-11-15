@@ -1,4 +1,4 @@
-=== PHP Shortcode ===
+=== WP Responsive Auto Fit Text ===
 Contributors: freqdec
 Donate link: 
 Tags: Fit text, slab text, responsive, shortcode, justify text, slabtext, auto fit text
@@ -15,21 +15,25 @@ Based on slabText – a jQuery plugin for producing big, bold & responsive headl
 
 = Usage =
 
-[slabtext]
-	[slab]liine 1[/slab]
-	[slab]line 2[/slab]
-	[slab]<b>line 3</b>[/slab]
-	[slab]<a href="#">line 4</a>[/slab]
+[slabtext]<br/>
+	[slab]liine 1[/slab]<br/>
+	[slab]line 2[/slab]<br/>
+	[slab]line 3[/slab]<br/>
+	[slab]line 4[/slab]<br/>
 [/slabtext]
+
+<p>
+<a href="http://www.vibesdesign.com.au/wp-responsive-auto-fit-text-wordpress-plugin/" title="WP Responsive Auto Fit Text">Working Demo</a>
+</p>
 
 == Frequently Asked Questions ==
 = Can I wrap the shortcode with HTML header tags = 
 Yes, here is an example:
-<h1>
-[slabtext]
-	[slab]My responsive title[/slab]
-[/slabtext]
-</h1>
+&#60h1&#62;<br/>
+[slabtext]<br/>
+	[slab]My responsive title[/slab]<br/>
+[/slabtext]<br/>
+&#60/h1&#62;
 
 == Changelog ==	
 = 1.0 =
