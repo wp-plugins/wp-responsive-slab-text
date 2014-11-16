@@ -27,11 +27,11 @@ Based on slabText – a jQuery plugin for producing big, bold & responsive headl
 == Frequently Asked Questions ==
 = Can I wrap the shortcode with HTML header tags = 
 Yes, here is an example:
-`&#60h1&#62;
+`<h1>
 [slabtext]
 [slab]My responsive title[/slab]
 [/slabtext]
-&#60/h1&#62;`
+</h1>`
 
 == Changelog ==	
 = 1.0 =
