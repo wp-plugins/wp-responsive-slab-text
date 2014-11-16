@@ -14,26 +14,24 @@ WP Responsive Auto Fit Text allows you to create great, big, bold headlines that
 Based on slabText – a jQuery plugin for producing big, bold & responsive headlines (https://github.com/freqDec/slabText), this plugin allows you to create great, big, bold & responsive headlines that resize to the viewport width with a WordPress shortcode.
 
 = Usage =
-‘
-[slabtext]
-[slab]liine 1[/slab]
+
+`[slabtext]
+[slab]line 1[/slab]
 [slab]line 2[/slab]
 [slab]line 3[/slab]
 [slab]line 4[/slab]
-[/slabtext]
-’
-<p>
-<a target="_blank" href="http://www.vibesdesign.com.au/wp-responsive-auto-fit-text-wordpress-plugin/" title="WP Responsive Auto Fit Text">Working Demo</a>
-</p>
+[/slabtext]`
+
+[Working Demo](http://www.vibesdesign.com.au/wp-responsive-auto-fit-text-wordpress-plugin/ "WP Responsive Auto Fit Text")
 
 == Frequently Asked Questions ==
 = Can I wrap the shortcode with HTML header tags = 
 Yes, here is an example:
-&#60h1&#62;
+`&#60h1&#62;
 [slabtext]
 [slab]My responsive title[/slab]
 [/slabtext]
-&#60/h1&#62;
+&#60/h1&#62;`
 
 == Changelog ==	
 = 1.0 =
