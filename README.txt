@@ -1,13 +1,13 @@
 === WP Responsive Auto Fit Text ===
-Contributors: freqdec
+Contributors:gal_op
 Donate link: 
-Tags: Fit text, slab text, responsive, shortcode, justify text, slabtext, auto fit text
+Tags: Fit text, slab text, responsive, shortcode, justify text, slabtext, auto fit text, auto resize text, text resize
 Requires at least: 2.5
 Tested up to: 4.0
 Stable tag: 0.1
 License: GPLv2 or later
 
-WP Responsive Auto Fit Text allows you to create great, big, bold & responsive headlines that resize to the viewport width, with a WordPress shortcode.
+WP Responsive Auto Fit Text allows you to create great, big, bold headlines that resize to the viewport width, with a WordPress shortcode.
 
 == Description ==
 
@@ -15,31 +15,30 @@ Based on slabText – a jQuery plugin for producing big, bold & responsive headl
 
 = Usage =
 
-[slabtext]<br/>
-	[slab]liine 1[/slab]<br/>
-	[slab]line 2[/slab]<br/>
-	[slab]line 3[/slab]<br/>
-	[slab]line 4[/slab]<br/>
-[/slabtext]
+`[slabtext]
+[slab]line 1[/slab]
+[slab]line 2[/slab]
+[slab]line 3[/slab]
+[slab]line 4[/slab]
+[/slabtext]`
 
-<p>
-<a href="http://www.vibesdesign.com.au/wp-responsive-auto-fit-text-wordpress-plugin/" title="WP Responsive Auto Fit Text">Working Demo</a>
-</p>
+[Working Demo](http://www.vibesdesign.com.au/wp-responsive-auto-fit-text-wordpress-plugin/ "WP Responsive Auto Fit Text")
 
 == Frequently Asked Questions ==
 = Can I wrap the shortcode with HTML header tags = 
 Yes, here is an example:
-&#60h1&#62;<br/>
-[slabtext]<br/>
-	[slab]My responsive title[/slab]<br/>
-[/slabtext]<br/>
-&#60/h1&#62;
+`<h1>
+[slabtext]
+[slab]My responsive title[/slab]
+[/slabtext]
+</h1>`
 
 == Changelog ==	
 = 1.0 =
 - Initial Revision	
 
 == Screenshots ==
+There are no screenshots, you can view it live in here: [Working Demo](http://www.vibesdesign.com.au/wp-responsive-auto-fit-text-wordpress-plugin/ "WP Responsive Auto Fit Text")
  
 == Upgrade Notice ==
 	 
