@@ -3,7 +3,7 @@ Contributors:gal_op
 Donate link: 
 Tags: Fit text, slab text, responsive, shortcode, justify text, slabtext, auto fit text, auto resize text, text resize
 Requires at least: 2.5
-Tested up to: 4.0.1
+Tested up to: 4.1
 Stable tag: 0.1
 License: GPLv2 or later
 
