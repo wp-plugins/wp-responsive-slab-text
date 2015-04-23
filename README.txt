@@ -1,9 +1,9 @@
-=== WP Responsive Auto Fit Text ===
+﻿=== WP Responsive Auto Fit Text ===
 Contributors:gal_op
 Donate link: 
 Tags: Fit text, slab text, responsive, shortcode, justify text, slabtext, auto fit text, auto resize text, text resize
 Requires at least: 2.5
-Tested up to: 4.0
+Tested up to: 4.2
 Stable tag: 0.1
 License: GPLv2 or later
 
