@@ -32,6 +32,8 @@ Styling per line
 
 [Working Demo](http://www.vibesdesign.com.au/wp-responsive-auto-fit-text-wordpress-plugin/ "WP Responsive Auto Fit Text")
 
+*** PHP needs to be at minimum v.5.3 for this plugin to work ***
+
 == Frequently Asked Questions ==
 = Can I wrap the shortcode with HTML header tags = 
 Yes, here is an example:
